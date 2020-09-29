@@ -1,0 +1,46 @@
+1,app_status,Platform Standard App,1
+2,app_status,Consolidate to Platform Standard App,2
+3,app_status,Platform Legacy App,3
+4,app_status,Consolidate to Platform Legacy App,4
+5,app_status,BU Standard App App,5
+6,app_status,Consolidate to BU Standard App,6
+7,app_status,BU Legacy App,7
+8,app_status,Decommission App,9
+9,app_dev_methodology,Waterfall,1
+10,app_dev_methodology,Agile,2
+11,app_dev_methodology,Other,3
+12,app_criticality,High,1
+13,app_criticality,Medium,2
+14,app_criticality,Low,3
+15,app_business_value,High,1
+16,app_business_value,Medium,2
+17,app_business_value,Low,3
+18,app_utilization,High,1
+19,app_utilization,Medium,2
+20,app_utilization,Low,3
+21,app_data_sensitivity,High,1
+22,app_data_sensitivity,Medium,2
+23,app_data_sensitivity,Low,3
+24,app_regulatory_requirement,Yes,1
+25,app_regulatory_requirement,No,2
+26,app_application_type,COTS,1
+27,app_application_type,Customized COTS,2
+28,app_application_type,Custom Built,3
+29,app_vendor_managed,Vendor,1
+30,app_vendor_managed,Internal,2
+31,app_support_status,Active support,1
+32,app_support_status,extended support,2
+33,app_support_status,out of support,3
+34,app_hosting_model,On premise,1
+35,app_hosting_model,cloud,2
+36,app_hosting_model,SaaS,3
+37,app_application_complexity,High,1
+38,app_application_complexity,Medium,2
+39,app_application_complexity,Low,3
+40,app_application_platform,Mainframe,1
+41,app_application_platform,Web App,2
+42,app_application_platform,Distributed,3
+43,app_server_os,Linux,1
+44,app_server_os,Unix,2
+45,app_server_os,Mainframe,3
+46,app_server_os,Wintel,4
